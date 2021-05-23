@@ -6,7 +6,7 @@
 
 ```xml
 <dependency>
-      <groupId>com.vs.quarkus.extensions</groupId>
+      <groupId>com.github.quarkus.extensions</groupId>
       <artifactId>log</artifactId>
       <version>0.0.1</version>
 </dependency>
